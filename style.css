@@ -1,0 +1,68 @@
+body{
+    background-color: #b3b5b3;
+}
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 37px;
+    font-weight: bold;
+    color: #404b41;
+    text-align: center;
+    text-transform: uppercase; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); 
+
+}
+h2{
+    font-family: 'Georgia', serif;
+    font-size: 28px;
+    font-style: italic;
+    color: #2b9952; 
+    margin-left: 100px;
+}
+.contenedor{
+   width: 300px;
+   border: 10px solid rgb(84, 94, 84);
+    padding: 25px;
+   margin: 15px;
+   margin-left: 37%;
+}
+ p{
+    font-family: 'Verdana', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+ }
+ h3{
+    text-align: center;
+ }
+ .education{
+      background-color: #488978; 
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 5px; 
+      border-left: 5px solid #456588; 
+ }
+ .education p{
+   text-align: center;
+
+ }
+ footer{
+    position: absolute;
+    right: 20px; 
+
+ }
+ a{
+   color: #015e34;
+ }
+ a:hover{
+   color:#040603
+ }
+ .diploma{
+   font-family: 'Georgia', serif;
+    font-size: 28px;
+    font-style: italic;
+    color: #2b9952; 
+    text-align: justify;
+ }
